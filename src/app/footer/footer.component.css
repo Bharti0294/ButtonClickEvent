@@ -1,0 +1,10 @@
+.btn{
+    background-color: black;
+    color: yellow;
+}
+.bg{
+    background-color: rgb(145, 145, 138);
+    width: 100%;
+    height: auto;
+    padding: 60px;
+}
